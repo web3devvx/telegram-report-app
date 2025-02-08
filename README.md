@@ -20,3 +20,5 @@ for further guide:
 contact developer:  https://t.me/tgreport_tool
 
 an automated tool for sending bulk reports to telegram IDs
+
+# telegram mass report
