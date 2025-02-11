@@ -1,5 +1,5 @@
 # telegram-report-app
-A powerful tool for reporting telegram channels, groups and accounts.
+A powerful tool for reporting telegram channels, groups, bots and accounts.
 
 developer: https://t.me/tgreport_tool
 
