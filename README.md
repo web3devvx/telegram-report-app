@@ -19,7 +19,7 @@ for further guide:
 
 contact developer:  https://t.me/tgreport_tool
 
-an automated tool for sending bulk reports to telegram IDs, fast mass reporting bot
+an automated tool for sending bulk reports to telegram IDs, fast mass reporting bot and takedowns
 
 # telegram mass report
 telegram report gigs are available
