@@ -13,7 +13,7 @@ developer: https://t.me/tgreport_tool
 developer:  https://t.me/tgreport_tool
 
 # USAGE
-- there is the windows os version and mac os version
+- there is the windows version and mac os version
 
 for further guide:
 
