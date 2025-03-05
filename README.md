@@ -8,7 +8,7 @@ developer: https://t.me/tgreport_tool
 # STEPS TO FOLLOW
 - generate up to 100 sessions
 
-- generate proxies, you can use free proxies
+- generate proxies, in JSON format
 
 developer:  https://t.me/tgreport_tool
 
