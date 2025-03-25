@@ -23,4 +23,4 @@ an automated tool for sending bulk reports to telegram IDs, fast mass reporting 
 
 # telegram mass report
 telegram report gigs are always available
-mass reporting bot
+telegram mass reporting bot
