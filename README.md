@@ -27,3 +27,4 @@ telegram report gigs are always available
 # telegram ban tool
 # telegram reporter
 # telegram report sender
+# telegram report bot
