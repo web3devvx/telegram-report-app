@@ -28,5 +28,6 @@ mass reporting method of banning
 # telegram ban tool
 bulk reporting tool
 # telegram reporter
+telegram mass reporting bot
 # telegram report sender
 # telegram report bot
