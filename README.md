@@ -31,3 +31,4 @@ bulk reporting tool
 telegram mass reporting bot
 # telegram report sender
 # telegram report bot
+# telegram ban tool
