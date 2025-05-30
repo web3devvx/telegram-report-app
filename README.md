@@ -32,4 +32,5 @@ telegram mass reporting bot
 # telegram report sender
 # telegram report bot
 # telegram ban tool
+report ban
 mass reporting telegram channels/groups and bots
