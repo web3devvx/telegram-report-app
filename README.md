@@ -33,7 +33,7 @@ telegram mass reporting bot
 # telegram report bot
 # telegram ban tool
 # report ban
-telegram mass report
+# telegram mass report
 telegram ban tool
 mass reporting telegram channels/groups and bots
 telegram mass report tool
