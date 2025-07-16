@@ -28,7 +28,7 @@ telegram report gigs are always available
 # telegram ban tool
 # bulk reporting tool
 # telegram reporter
-telegram mass reporting bot
+# telegram mass reporting bot
 # telegram report sender
 # telegram report bot
 # telegram ban tool
