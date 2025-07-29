@@ -39,4 +39,4 @@ telegram report gigs are always available
 # telegram mass report tool
 # telegram ban
 # telegram banner
-# telegram ban reporter
+# telegram ban report
