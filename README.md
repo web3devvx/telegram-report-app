@@ -32,7 +32,7 @@ telegram report gigs are always available
 # telegram report sender
 # telegram report bot
 # telegram ban tool
-# report ban
+# report banner
 # telegram mass report
 # telegram ban tool
 # mass reporting telegram channels/groups and bots
