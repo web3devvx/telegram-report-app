@@ -1,23 +1,25 @@
 # telegram-report-app
 A powerful tool for reporting telegram channels, groups, bots with mass reproting
 
-developer: https://t.me/tgreport_tool
+developer: https://t.me/redsecure
 
-![tgpic](https://github.com/user-attachments/assets/ec6dfbe4-5d36-44a9-a6d5-0ec1580136a2)
+
+<img width="518" height="358" alt="tgrp" src="https://github.com/user-attachments/assets/6aea2f68-2978-46c9-b86f-a562408f26c8" />
+
 
 # STEPS TO FOLLOW
 - generate up to 100 sessions
 
 - generate proxies, in JSON format
 
-developer:  https://t.me/tgreport_tool
+developer: https://t.me/redsecure
 
 # USAGE
 - there is the windows version and mac os version
 
 for further guide:
 
-contact developer:  https://t.me/tgreport_tool
+contact developer:  https://t.me/redsecure
 
 an automated tool for sending bulk reports to telegram IDs, fast mass reporting bot and takedowns
 
