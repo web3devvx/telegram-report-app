@@ -43,7 +43,7 @@ telegram report gigs are always available
 # telegram banner
 # telegram ban report
 # telegram banner
-# tg banner
+# tg banner tool
 # telegram banner reporter
 # tg reporter bot
 # telegram report ban
