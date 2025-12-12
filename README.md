@@ -46,12 +46,4 @@ telegram report gigs are always available
 # tg banner tool
 # telegram banner reporter
 # tg reporter bot
-# telegram report ban
-# telegram ban report
-# tg ban bot
-# telegram banner
-# telegram ban tool
-# telegram ban tool
-# telegram mass reporter
-# telegram ban reporter
-# telegram channel ban 
+
